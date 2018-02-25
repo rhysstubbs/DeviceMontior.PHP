@@ -1,0 +1,135 @@
+input[type="submit"] {
+    padding: 10px;
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom: 10px;
+    display: block;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    /*    padding: 10px;*/
+    margin: auto;
+    border: solid 1px #454545;
+    border-radius: 5px;
+    display: block;
+    width: 90%;
+    font-size: 14px;
+    color: #777;
+}
+
+label {
+    margin-left: 5%;
+}
+
+.top-label {
+    margin-top: 10px;
+}
+
+.nav nav-tabs:li {
+    font-size: 100px;
+}
+
+.tab-content {
+    border: solid 2px grey;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.nav-tabs {
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    margin-top: 20px;
+}
+
+.nav-tabs > li > a {
+    border-radius: 0px;
+    background: #f82;
+    color: white;
+}
+
+.form-heading {
+    text-align: center;
+}
+
+.main-menu {
+    padding-left: 15px;
+    background-color: #FF7D12;
+    text-align: center;
+}
+
+.main-menu li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.main-menu li:hover {
+    background-color: #eee;
+}
+
+.main-menu li a {
+    color: #ffffff;
+    display: block;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+body {
+    background-color: #f0f0f0;
+}
+
+.section#feature ul li {
+    font-size: 19px !important;
+    text-align: justify;
+}
+
+.footer {
+    width: 100%;
+    bottom: 0;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    height: 40px;
+    position: fixed;
+    background-color: #FF7D12;
+    text-align: center;
+	margin-top: 3px;
+	font-family: sans-serif;
+	font-size: 10px;
+	line-height: 6px;
+	
+}
+
+#username {
+    position: absolute;
+    text-align: right;
+    top: 0;
+    right: 0;
+}
+
+.container{
+	background-color: #FFFFFF;
+	height: 100%; 
+
+	
+}
+
+.row {
+	padding-left: 4%;
+	padding-right: 4%;
+	background-color: #FFFFFF;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 23px;
+	text-align: justify;
+}
+
+.about {
+	margin: auto;
+
+}
